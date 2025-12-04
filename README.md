@@ -36,10 +36,7 @@ jupyter notebook
 
 
 Run:
-
-synthetic_experiment.ipynb
-
-realworld_experiment.ipynb
+SSL_on_realtime_datastream.ipynb
 
 Both notebooks include all steps, comments, and visualizations.
 
@@ -66,6 +63,5 @@ The work is also prepared for journal submission.
 Author
 
 Punan Chowdhury
-GitHub: your-username
 
 If you find this work useful or interesting, feel free to star the repo.
