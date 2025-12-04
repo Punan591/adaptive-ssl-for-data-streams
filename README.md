@@ -7,17 +7,17 @@ The main goal of this work is to design and test a simple and practical SSL fram
 
 What’s Included
 
-Full research paper (PDF + diagrams)
+  Full research paper (PDF + diagrams)
 
-Synthetic data experiment with concept drift
+  Synthetic data experiment with concept drift
 
-Real-world experiment using the NYC Taxi dataset
+  Real-world experiment using the NYC Taxi dataset
 
-SSL model implementation (masked reconstruction + predictive coding)
+  SSL model implementation (masked reconstruction + predictive coding)
 
-Autoencoder and supervised baselines for comparison
+  Autoencoder and supervised baselines for comparison
 
-Results and charts showing model performance
+  Results and charts showing model performance
 
 This project is meant to be easy to read, easy to run, and easy to understand for students, researchers, and anyone interested in self-supervised or streaming machine learning.
 
@@ -68,4 +68,4 @@ Author
 Punan Chowdhury
 GitHub: your-username
 
-If you find this work useful or interesting, feel free to star ⭐ the repo.
+If you find this work useful or interesting, feel free to star the repo.
